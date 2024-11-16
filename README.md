@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://mdanayat143.blogspot.com/](https://mdanayat143.blogspot.com/)
 
-- 💬 Ask me about **HTML,SS,JS,React.js**
+- 💬 Ask me about **HTML,CSS,JS,React.js**
 
 - 📫 How to reach me **mdanayatullah143@gmail.com**
 
