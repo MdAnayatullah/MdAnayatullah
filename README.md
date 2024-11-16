@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Md Anayatullah Ansari</h1>
 <h3 align="center">A passionate web developer/ Software Developer from India</h3>
 
