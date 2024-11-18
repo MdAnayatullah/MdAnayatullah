@@ -39,6 +39,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdanayatullah&show_icons=true&locale=en&layout=compact" alt="mdanayatullah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdanayatullah&show_icons=true&locale=en" alt="mdanayatullah" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MdAnayatullah)](https://git.io/streak-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdanayatullah&" alt="mdanayatullah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAnayatullah&" alt="mdanayatullah" /></p>
