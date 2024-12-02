@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10ru8X1cj3iEFl5GwmjlawELMgvIrlEZq/view?usp=sharing](https://drive.google.com/file/d/10ru8X1cj3iEFl5GwmjlawELMgvIrlEZq/view?usp=sharing)
 
-- ⚡ Fun fact **I love short-cut. But i know it doesn't work all the times**
+- ⚡ Fun fact **I love Greedy approach although it doesn't work all the times😊**
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
