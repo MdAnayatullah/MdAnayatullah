@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [cloud project](#)
 
-- 👨‍💻 All of my projects are available at [https://anayat-portfolio.netlify.app/](https://anayat-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anayatmyportfolio.netlify.app/](https://anayatmyportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://mdanayat143.blogspot.com/](https://mdanayat143.blogspot.com/)
 
